@@ -46,6 +46,6 @@ How It Works (for the investor):
 4.	Escrow and Transfer: "Funds are held in escrow while legal checks are performed, then automatically released upon successful transfer."
 5.	Transaction Fees: "The platform generates revenue through listing fees and a small percentage of each successful sale."
 
-Closing Statement: "This prototype demonstrates the core concept of our platform. With full development, EACL will revolutionize real estate auctions by providing a transparent, efficient, and global marketplace for property transactions."
+This prototype demonstrates the core concept of our platform. With full development, EACL will revolutionize real estate auctions by providing a transparent, efficient, and global marketplace for property transactions.
 
 Remember that this is a prototype, and the full version will have more features, better design, and full blockchain integration.
