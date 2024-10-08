@@ -1,2 +1,0 @@
-(this["webpackJsonpeacl-auction-platform"]=this["webpackJsonpeacl-auction-platform"]||[]).push([[0],{4:function(t,e){},5:function(t,e,n){"use strict";n.r(e);var c=n(0),a=n.n(c),o=n(3),r=n.n(o),i=n(4),s=n.n(i),p=n(2);r.a.render(Object(p.jsx)(a.a.StrictMode,{children:Object(p.jsx)(s.a,{})}),document.getElementById("root"))}},[[5,1,2]]]);
-//# sourceMappingURL=main.fa93a393.chunk.js.map
