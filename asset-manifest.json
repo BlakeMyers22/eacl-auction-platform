@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/eacl-auction-platform/static/js/main.fa93a393.chunk.js",
+    "main.js.map": "/eacl-auction-platform/static/js/main.fa93a393.chunk.js.map",
+    "runtime-main.js": "/eacl-auction-platform/static/js/runtime-main.a4708c05.js",
+    "runtime-main.js.map": "/eacl-auction-platform/static/js/runtime-main.a4708c05.js.map",
+    "static/js/2.eab62fa2.chunk.js": "/eacl-auction-platform/static/js/2.eab62fa2.chunk.js",
+    "static/js/2.eab62fa2.chunk.js.map": "/eacl-auction-platform/static/js/2.eab62fa2.chunk.js.map",
+    "index.html": "/eacl-auction-platform/index.html",
+    "static/js/2.eab62fa2.chunk.js.LICENSE.txt": "/eacl-auction-platform/static/js/2.eab62fa2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4708c05.js",
+    "static/js/2.eab62fa2.chunk.js",
+    "static/js/main.fa93a393.chunk.js"
+  ]
+}
