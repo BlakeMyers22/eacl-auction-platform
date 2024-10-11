@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/eacl-auction-platform/static/js/main.daaf004d.chunk.js",
-    "main.js.map": "/eacl-auction-platform/static/js/main.daaf004d.chunk.js.map",
-    "runtime-main.js": "/eacl-auction-platform/static/js/runtime-main.a4708c05.js",
-    "runtime-main.js.map": "/eacl-auction-platform/static/js/runtime-main.a4708c05.js.map",
-    "static/js/2.f618111e.chunk.js": "/eacl-auction-platform/static/js/2.f618111e.chunk.js",
-    "static/js/2.f618111e.chunk.js.map": "/eacl-auction-platform/static/js/2.f618111e.chunk.js.map",
-    "index.html": "/eacl-auction-platform/index.html",
-    "static/js/2.f618111e.chunk.js.LICENSE.txt": "/eacl-auction-platform/static/js/2.f618111e.chunk.js.LICENSE.txt"
+    "main.js": "/usdc-auction-platform/static/js/main.48b00a9a.chunk.js",
+    "main.js.map": "/usdc-auction-platform/static/js/main.48b00a9a.chunk.js.map",
+    "runtime-main.js": "/usdc-auction-platform/static/js/runtime-main.1b7ff450.js",
+    "runtime-main.js.map": "/usdc-auction-platform/static/js/runtime-main.1b7ff450.js.map",
+    "static/js/2.0c9a1a70.chunk.js": "/usdc-auction-platform/static/js/2.0c9a1a70.chunk.js",
+    "static/js/2.0c9a1a70.chunk.js.map": "/usdc-auction-platform/static/js/2.0c9a1a70.chunk.js.map",
+    "index.html": "/usdc-auction-platform/index.html",
+    "static/js/2.0c9a1a70.chunk.js.LICENSE.txt": "/usdc-auction-platform/static/js/2.0c9a1a70.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a4708c05.js",
-    "static/js/2.f618111e.chunk.js",
-    "static/js/main.daaf004d.chunk.js"
+    "static/js/runtime-main.1b7ff450.js",
+    "static/js/2.0c9a1a70.chunk.js",
+    "static/js/main.48b00a9a.chunk.js"
   ]
 }
